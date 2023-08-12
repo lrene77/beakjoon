@@ -1,0 +1,4 @@
+﻿  baekjoon_1271.cpp
+E:\Study\C++\baekjoon_1271\baekjoon_1271\baekjoon_1271.cpp(23,7): warning C4552: '>=': 식의 결과가 사용되지 않습니다.
+E:\Study\C++\baekjoon_1271\baekjoon_1271\baekjoon_1271.cpp(24,7): warning C4552: '!=': 식의 결과가 사용되지 않습니다.
+  baekjoon_1271.vcxproj -> E:\Study\C++\baekjoon_1271\x64\Debug\baekjoon_1271.exe
