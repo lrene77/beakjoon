@@ -1,0 +1,4 @@
+﻿  baekjoon_1008.cpp
+E:\Study\C++\baekjoon_1008\baekjoon_1008\baekjoon_1008.cpp(9,7): warning C4552: '<': 식의 결과가 사용되지 않습니다.
+E:\Study\C++\baekjoon_1008\baekjoon_1008\baekjoon_1008.cpp(10,7): warning C4552: '>': 식의 결과가 사용되지 않습니다.
+  baekjoon_1008.vcxproj -> E:\Study\C++\baekjoon_1008\x64\Debug\baekjoon_1008.exe
