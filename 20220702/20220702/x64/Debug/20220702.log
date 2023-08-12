@@ -1,0 +1,6 @@
+﻿  project.c
+E:\Study\C\20220702\20220702\project.c(10,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+E:\Study\C\20220702\20220702\project.c(10,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+E:\Study\C\20220702\20220702\project.c(26,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+E:\Study\C\20220702\20220702\project.c(26,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+  20220702.vcxproj -> E:\Study\C\20220702\x64\Debug\20220702.exe
